@@ -17,7 +17,7 @@
         <div class="container">
             <section class="main row">
                 <article class="col-xs-12 col-sm-8 col-md-9 col-lg-9">
-                    <h2>Article <small>-- Article</small></h2>
+                    <h3>Article <small>-- Article</small></h3>
                     <p class="lead">Bootstrap is a free and open-source front-end web framework
                         for designing websites and web applications.</p><div> It contains HTML- 
                         and CSS-based design templates for typography, forms, buttons, 
@@ -27,7 +27,7 @@
                     </div>
                 </article>
                 <aside class="col-xs-12 col-sm-4 col-md-3 col-lg-3 text-lowercase">
-                    <h2>Aside</h2>
+                    <h3>Aside</h3>
                     <mark>Bootstrap, originally named Twitter Blueprint</mark>, was developed by
                     Mark Otto and Jacob Thornton at Twitter as a framework to encourage 
                     consistency across internal tools. Before Bootstrap, various libraries
@@ -37,7 +37,7 @@
             </section>
             <div class="row">
                 <div class=" color1 col-xs-12 col-ms-6 col-md-3">
-                    <h2>Columna</h2> 
+                    <h3>Columna</h3> 
                     <del>Bootstrap, originally named Twitter Blueprint, was developed by
                         <div class="text-uppercase">Mark Otto and Jacob Thornton at Twitter as a framework</div> to encourage 
                         consistency across internal tools.</del> Before Bootstrap, various libraries
@@ -46,7 +46,7 @@
 
                 </div>
                 <div class="col-xs-12 col-ms-6 col-md-3 bg-success">
-                    <h2>Columna</h2> 
+                    <h3>Columna</h3> 
                     <ins>Bootstrap, originally named Twitter Blueprint</ins>, was developed by
                     Mark Otto and Jacob Thornton at Twitter as a framework to encourage 
                     consistency across internal tools. Before Bootstrap, various libraries
@@ -55,7 +55,7 @@
                 </div>
                 <!--col-md-offset-3 desplaza hacia la izquierda-->
                 <div class="color1 col-xs-12 col-ms-6 col-md-3 text-center">
-                    <h2>Columna</h2>
+                    <h3>Columna</h3>
                     <strong>Bootstrap, originally named Twitter Blueprint, was developed by
                         Mark Otto and Jacob Thornton at Twitter as a framework to encourage 
                         consistency across internal tools.</strong> Before Bootstrap, various libraries
@@ -63,7 +63,7 @@
                     high maintenance burden. According to Twitter developer Mark Otto:
                 </div>
                 <div class="col-xs-12 col-ms-6 col-md-3 text-justify bg-danger">
-                    <h2>Columna</h2>
+                    <h3>Columna</h3>
                     <code>Bootstrap, originally named Twitter Blueprint, was developed by
                         Mark Otto and Jacob Thornton at Twitter as a framework to encourage 
                         consistency across internal tools. Before Bootstrap</code> 
