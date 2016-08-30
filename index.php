@@ -72,6 +72,16 @@
 
             </div>
         </div>
+        <div class="container">
+            <div class=" main row">
+                <div class="col-xs-12 col-ms-6 col-md-3 color2">
+                    Esto es una prueba con el git
+                    Bootstrap, originally named Twitter Blueprint, was developed by
+                        Mark Otto and Jacob Thornton at Twitter as a framework to encourage 
+                        consistency across internal tools. Before Bootstrap
+                </div>
+            </div>
+        </div>
         <!--Sirve para poner citas-->
         <!--        <div class="row">
                     <blockquote class="blockquote-reverse">
