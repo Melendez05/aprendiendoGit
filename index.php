@@ -79,21 +79,21 @@
                     Bootstrap, originally named Twitter Blueprint, was developed by
                     Mark Otto and Jacob Thornton at Twitter as a framework to encourage 
                     consistency across internal tools. Before Bootstrap
-                    <button>Accept</button>
+                    <button class="btn-default">Accept</button>
                 </div>
                 <div class="col-xs-12 col-ms-6 col-md-3 color1">
                     Esto es una prueba con el git 2
                     Bootstrap, originally named Twitter Blueprint, was developed by
                     Mark Otto and Jacob Thornton at Twitter as a framework to encourage 
                     consistency across internal tools. Before Bootstrap
-                    <button>Accept</button>
+                    <button class="btn-primary">Accept</button>
                 </div>
                 <div class="col-xs-12 col-ms-6 col-md-3 color3">
                     Esto es una prueba con el git 3
                     Bootstrap, originally named Twitter Blueprint, was developed by
                     Mark Otto and Jacob Thornton at Twitter as a framework to encourage 
                     consistency across internal tools. Before Bootstrap
-                    <button>Accept</button>
+                    <button class="btn-success">Accept</button>
                 </div>
 
             </div>
